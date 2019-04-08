@@ -1,4 +1,7 @@
 ああああ
+・git add
+・git command
+
 
 import datetime
 import pandas as pd
